@@ -1,9 +1,9 @@
 # ft_printf
 
-My third projet at 42 school. 
+:computer: My third projet at 42 school. 
 
-The aim of this project is to recode printf function.
+:question: The aim of this project is to recode printf function.
 
-You will find the subject of the project at the root of the repository.
+:page_with_curl: You will find the [subject](https://github.com/anfisah/ft_printf/blob/main/en.subject.pdf) of the project at the root of the repository.
 
-Submitted in december 2020
+:calendar: Submitted in december 2020
